@@ -1,69 +1,41 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <link rel ="stylesheet" type="text/css" href="=style.css">
-    <title>Page Title</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src='main.js'></script>
-
+body {
+    background-color: #cccccc;
+}
     
-    <link rel="stylesheet" href="style.css">
-</head>
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
 
-<body>
+#foto1 {
+    width: 100%;
+    }
 
-    <header>
-        PONTAL DO PARANÁ 
-    </header>
 
-    <ul>
-        
-    </ul>
+p { text-align: justify
 
-    <div class="principal">
+}
 
+h2 {
+    text-align: center;
+}
+
+strong {
+    color: rgb(238, 20, 67);
+}
+
+.itens {
+    font-style: italic
     
-    
-    <img id="foto1" src="pontal 1.jpg">
+}
 
-    <h1 style="text-align: center">DOAÇÃO DE SANGUE E SUA CONTRIBUIÇÃO PARA UM MUNDO MELHOR</h1>
-    <p>A doação de sangue é um ato altruísta e totalmente voluntário, que pode salvar vidas. Dependem desse ato solidário pessoas que se submetem a tratamentos planejados e intervenções médicas urgentes de grande porte e complexidade, como transfusões, transplantes e procedimentos cirúrgicos.
-   
-    <strong> Pontal do Paraná </strong>  teve os indígenas como primeiros habitantes. Só muito tempo depois, em 1995, o lugar foi desmembrado de Paranaguá e se tornou município, com uma população média atual de pouco mais de 26 mil habitantes.</p> 
-    <p>As belezas naturais e a história do passado litorâneo são os grandes atrativos locais. Com 23 km de orla subdividida em mais de 40 praias, Pontal do Paraná transformou-se em um dos principais destinos turísticos do Estado. A cidade notabiliza-se também pela <em>pesca artesanal e esportiva</em> e pelo ecoturismo. </p>
-    <h2 style="text-align: center"><strong>O QUE FAZER NESTE PARAISO</strong></h2>
-   
-    <p style="font-size: 20"><strong>TRILHAS ECOLÓGICAS</strong></p>
-    <p>Caminhada Internacional na Natureza desmembra-se em diferentes circuitos espalhados por Pontal do Paraná. Em cada um deles, o esforço físico dos praticantes é compensado pelas belezas naturais que compõem o trajeto. </p>
-   
-    <p style="font-size: 20"><strong>ESPORTES</strong></p> 
-    <p>Não são só as praias que convidam os turistas a visitarem Pontal do Paraná. A cidade também é muito atrativa para quem gosta de esportes. O rio Guraguaçu é ideal para a pesca esportiva por oferecer uma fartura de peixes de diferentes espécies.</p>
-   
-    <p style="font-size: 20"><strong>PASSEIOS</strong></p> 
-    
-    <P style="text-algn: justify"><strong>Praias:</strong> Os 23 km de orla marítima de Pontal do Paraná abrigam 48 balneários com boas condições para banho. Dentre eles, destacam-se: balneário de Santa Terezinha, o mais visitado pelos jovens por ter vida noturna agitada, ótimos picos pra prática de surfe e o melhor carnaval da cidade; balneário Ipanema, conhecido pelo comércio intenso; e o balneário de Pontal do Sul, com belas paisagens, boas ondas para o surfe, piscinas naturais de águas calmas e travessia para a Ilha do Mel. Os balneários de Praia de Leste e Shangri-lá também são bastante famosos e visitados.</P>
-   
-    <p><strong>Parque Nacional Marinho das Ilhas dos Currais:</strong> O primeiro parque nacional marinho do Paraná tem a missão de proteger os ecossistemas e ambientes naturais do entorno. O lugar, formado por três ilhas que ficam em frente ao balneário de Praia de Leste, é um dos poucos pontos de mergulho do Estado. Considerado um dos principais berçários de aves no Brasil e no Atlântico Sul, o Parque abriga também o Centro de Estudos do Mar da Universidade Federal do Paraná.</p>
-    
-    <p><strong>Estrada Ecológica do Guaraguaçu:</strong> A via, que no passado ligava o então povoado de Pontal do Sul a Paranaguá, hoje dá acesso a propriedades particulares. Os 26 km de estrada são pavimentados com conchas encontradas nos sambaquis, que estão por todo o caminho. É nele que se realiza a Caminhada Internacional na Natureza, evento de ecoturismo promovido anualmente pela prefeitura. As visitas devem ser agendadas no Departamento de Turismo da cidade ou na Funai.</p>
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
 
-    <p><strong>Comunidade do Maciel (Ilha do Maciel):</strong> Vila pitoresca onde moram cerca de 46 famílias de pescadores artesanais, o lugar tem uma beleza natural adornada por casas coloridas, canoas e redes de pesca que parecem ter nascido com o povoado. A população hospitaleira, que conta histórias sobre as tradições litorâneas e prepara deliciosas receitas à base de frutos do mar, é um motivo especial para visitar o local, onde também acontece, todo ano, uma etapa da Caminhada Internacional na Natureza – o Circuito Ilha do Maciel.</p>
-    
-    </div>
-<div>
-    <h2>BALNEARIOS MAIS CONHECIDOS DE PONTAL DO PARANÁ</h2>
+.imagemmapa {width: 50% 
 
-    <ul>
-        <li class="itens">Praia de Leste</li>
-        <li class="itens">Ipanema</li>
-        <li class="itens">Shangrila</li>
-        <li class="itens">Pontal do Sul</li>
-    </ul>
-    
-    <img id="mapa" src="mapa.jpg" class="imagemmapa">
-</div>
-</body>
-</html>
+}
