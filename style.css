@@ -47,4 +47,17 @@ ul {
 
 .imagemmapa {width: 50% 
 
+}h1{
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center; 
+    text-decoration: double;
+    position: relative; 
+    margin-top: 0%;
+    margin-right: 5%;
+    margin-left: 5%;
+    border: solid;  #0f1942;
+    padding: 2%;
+    background-color: #FFE4E1;
+   
 }
