@@ -20,15 +20,6 @@ h2 {
     text-align: center;
 }
 
-strong {
-    color: rgb(238, 20, 67);
-}
-
-.itens {
-    font-style: italic
-    
-}
-
 nav {
     position: absolute;
     bottom: auto;
@@ -38,6 +29,14 @@ nav {
     font-size: 30px; font-family: monospace;
     }
 
+strong {
+    color: rgb(238, 20, 67);
+}
+
+.itens {
+    font-style: italic
+    
+}
 
 ul {
     display: inline-block;
