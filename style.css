@@ -27,6 +27,19 @@ p { text-align: justify
 
 h2 {
     text-align: center;
+        font-size: 40px;
+        text-transform: uppercase;
+        text-align: center; 
+        text-decoration: double;
+        position: relative; 
+        margin-top: 0%;
+        margin-right: 5%;
+        margin-left: 5%;
+        border: solid;  #0f1942;
+        padding: 2%;
+        background-color: #FFE4E1;
+       
+    }
 }
 
 nav {
@@ -40,8 +53,8 @@ nav {
 
 strong {
     color: rgb(238, 20, 67);
-    margin-right: 05%;
-    margin-left: 05%;
+    margin-right: 1%;
+    margin-left: 1%;
 }
 
 .itens {
