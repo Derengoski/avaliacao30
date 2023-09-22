@@ -34,10 +34,10 @@ h2 {
         margin-top: 0%;
         margin-right: 5%;
         margin-left: 5%;
-        border: solid;  #0f1942;
         padding: 2%;
         background-color: #ff1900;
         color: #ffffff;
+        border: 2px solid #ffffff;
     }
 }
 
