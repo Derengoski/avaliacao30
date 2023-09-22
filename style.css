@@ -18,7 +18,8 @@ body {
 
 
 p { text-align: justify
-
+    margin-right: 1%;
+    margin-left: 1%;
 }
 
 h2 {
