@@ -10,8 +10,10 @@ body {
     padding: 30px;
     margin: 8%;
     border-radius: 20px 20px;
-    border: 2px solid #ff5100;
+    background-color: #ff1900;
     color: #ffffff;
+    border: 2px solid #ffffff;
+}
 
 }
 
